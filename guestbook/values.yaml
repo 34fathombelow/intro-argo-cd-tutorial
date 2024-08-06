@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/34fathombelow/intro-argo-cd-tutorial
-  tag: 629b4a
+  tag: 1629b4a
   pullPolicy: IfNotPresent
 
 service:
